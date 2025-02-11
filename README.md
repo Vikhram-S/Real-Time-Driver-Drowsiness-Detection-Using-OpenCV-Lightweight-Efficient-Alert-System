@@ -41,10 +41,13 @@ This project is a **real-time driver drowsiness detection system** using OpenCV 
 Below are example images of the detection system in action:
 
 ### Face and Eye Detection
-![Face and Eye Detection](images/face_detection.png)
+![Screenshot 2025-02-11 222754](https://github.com/user-attachments/assets/724da61e-1e47-4868-bdba-d8d4cb9004b8)
+
 
 ### Drowsiness Alert
-![Drowsiness Detected](images/drowsiness_alert.png)
+![Screenshot 2025-02-11 222754](https://github.com/user-attachments/assets/724da61e-1e47-4868-bdba-d8d4cb9004b8)
+
+
 
 ## File Structure
 ```
